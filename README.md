@@ -1,4 +1,10 @@
-## Hi there 👋
+Hy I'm yadukrishnan👋
+
+I like to build and scale applications.  
+Passionate about software development, open source, and solving real-world problems.  
+Constantly learning and exploring new technologies.  
+
+🔗LinkedIn (https://www.linkedin.com/in/yadu-krishnan-k/)
 
 <!--
 **yaaduu11/yaaduu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

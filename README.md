@@ -11,7 +11,5 @@ Always tinkering.
 
 See who I am: [yadukrishnan.vercel.app](https://yadukrishnan.vercel.app)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaaduu11&show_icons=true&theme=radical&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaaduu11&layout=compact&theme=radical" />
 
 </div>

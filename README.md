@@ -1,6 +1,6 @@
-<div align="center" style="background-color:#000000; color:#ffffff; padding: 20px; border-radius: 10px;">
+<div align="start" style="background-color:#000000; color:#ffffff; padding: 20px; border-radius: 10px;">
 
-# Hy, I'm Yadukrishnan 👋
+# Hy, I'm Yadukrishnan
 
 I’m the kind of person who breaks stuff just to figure out how it works — and then builds something better from it.
 
@@ -9,6 +9,6 @@ Whether it's open-source contributions or late-night code experiments, I’m alw
 
 Always learning. Always building. Always tinkering.
 
-🔗 See what I’m experimenting with: [yadukrishnan.vercel.app](https://yadukrishnan.vercel.app)
+See who I am: [yadukrishnan.vercel.app](https://yadukrishnan.vercel.app)
 
 </div>

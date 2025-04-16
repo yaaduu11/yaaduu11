@@ -1,22 +1,11 @@
-Hy I'm yadukrishnan👋
+<div align="center" style="background-color:#000000; color:#ffffff; padding: 20px; border-radius: 10px;">
+
+# Hy, I'm Yadukrishnan
 
 I like to build and scale applications.  
-Passionate about software development, open source, and solving real-world problems.  
-Constantly learning and exploring new technologies.  
+I'm passionate about software development, open source, and solving real-world problems.  
+A constant learner, tech explorer, and a bit of a **tinkerer** too..
 
-https://yadukrishnan.vercel.app
+See what I’m building [yadukrishnan.vercel.app](https://yadukrishnan.vercel.app)
 
-<!--
-**yaaduu11/yaaduu11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
